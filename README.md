@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rohanbyte-sh/rohanbyte-sh/main/banner.png" />
+  <img src="https://raw.githubusercontent.com/rohanbyte-sh/rohanbyte-sh/main/Theb.png" />
 </p>
 
 <h1 align="center">
