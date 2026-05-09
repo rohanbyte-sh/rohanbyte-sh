@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/banner.png" />
+  <img src="https://raw.githubusercontent.com/rohanbyte-sh/rohanbyte-sh/main/banner.png" />
 </p>
 
 <h1 align="center">
@@ -62,9 +62,9 @@ Just building consistently.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rohanbyte-sh&show_icons=true&theme=tokyonight" />
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanbyte-sh&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
@@ -72,7 +72,7 @@ Just building consistently.
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=rohanbyte-sh&theme=tokyonight" />
 </p>
 
 ---
@@ -89,7 +89,7 @@ Just building consistently.
 ## 🌍 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/rohanbyte-sh">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 
