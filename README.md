@@ -80,9 +80,6 @@ Just building consistently.
 ## 🚀 Featured Projects
 
 - 🌸 Mother's Day Website
-- 🎮 Number Guessing Game
-- 🌡️ Temperature Converter
-- 📚 DSA with C Programs
 
 ---
 
