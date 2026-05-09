@@ -79,6 +79,7 @@ Just building consistently.
 
 ## 🚀 Featured Projects
 
+- 💻Email fraud detection Website
 - 🌸 Mother's Day Website
 
 ---
