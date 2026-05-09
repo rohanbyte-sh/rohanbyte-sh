@@ -51,8 +51,8 @@ Just building consistently.
 
 ## 📚 Current Journey
 
-- 📚 Learning DSA with C
-- 🌐 Building frontend projects
+- 📚 Learning DSA with Java
+- 🌐 Building projects
 - ⚡ Improving problem solving
 - 🔐 Exploring cybersecurity & bug bounty
 - 🎬 Interested in creative tech & content creation
