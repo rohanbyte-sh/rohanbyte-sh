@@ -1,16 +1,105 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/banner.png" />
+</p>
 
-<!--
-**rohanbyte-sh/rohanbyte-sh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">
+  Hey 👋 I'm Rohan Sharma
+</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Aspiring+Software+Developer;Java+%7C+JavaScript+%7C+DSA;Building+things+one+commit+at+a+time;Learn.+Build.+Ship.+Repeat." />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+I'm a BCA student from Delhi on the journey toward becoming a strong software developer.
+
+I enjoy building things, understanding how they work internally, breaking them, fixing them, and improving consistently every day.
+
+Currently focused on:
+- Java
+- JavaScript
+- DSA
+- Frontend Development
+- Git & GitHub
+- Cybersecurity Basics
+
+---
+
+## 🚀 Current Goal
+
+Becoming genuinely skilled enough to:
+- build real projects
+- crack internships
+- contribute to teams
+- and eventually become a strong software engineer
+
+Not chasing shortcuts.  
+Just building consistently.
+
+---
+
+## ⚒️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,html,css,c,git,github,vscode" />
+</p>
+
+---
+
+## 📚 Current Journey
+
+- 📚 Learning DSA with C
+- 🌐 Building frontend projects
+- ⚡ Improving problem solving
+- 🔐 Exploring cybersecurity & bug bounty
+- 🎬 Interested in creative tech & content creation
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+- 🌸 Mother's Day Website
+- 🎮 Number Guessing Game
+- 🌡️ Temperature Converter
+- 📚 DSA with C Programs
+
+---
+
+## 🌍 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Building things one commit at a time.</i>
+</p>
